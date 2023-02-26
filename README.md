@@ -21,7 +21,7 @@ We are provided with the SQL dataset which contains customers, date, transaction
 
 # Task
 * Finding **Profit Margin, Sales Quantity and Revenue** made in each year/month
-* Analyzing **top 5 customers and product type** by revenue
+* Analyzing **top 5 customers and product** by revenue
 * Finding the **Revenue Margin Contribution, Profit Margin Contribution and Profit %** by each customer
 * Finding the **Revenue Margin Contribution, Profit Margin Contribution and Profit %** by each Market 
 * Finding the **Revenue trend** by years
