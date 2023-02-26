@@ -4,7 +4,9 @@ This project is about finding the sales analysis of Atliq Technologies using BI 
 <img src="https://i.pinimg.com/originals/8d/37/d1/8d37d10f8fa4c608e5ecbcbdef2ad8a8.gif" width="500" height="400" />
 </p>
 
-Live Dashboard: https://www.novypro.com/project/atliq-sales-insights-project
+**Live Dashboard**: https://www.novypro.com/project/atliq-sales-insights-project
+
+**Blog**: https://medium.com/@Kavya2099/improving-sales-insights-with-power-bi-1430eee90fb6
 
 # Problem statement
 AtliQ Hardware, with multiple branches across India, provides computer hardware and peripheral manufacturers to its clients. The sales director is encountering difficulties in comprehending the company's current issues and performance, as sales are decreasing below expectations. 
